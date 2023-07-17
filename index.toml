@@ -21,6 +21,11 @@ hash = "cea9d72f42127f4974afc7120d99dd4042d7342129d465ea4afb11f334749b61"
 metafile = true
 
 [[files]]
+file = "mods/autohud.pw.toml"
+hash = "3d56be0b268c32cedaddb6825c7101738ead0a9a2b3aa44981526b3b8278a63c"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
@@ -31,6 +36,11 @@ hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
 
 [[files]]
+file = "mods/better-selection.pw.toml"
+hash = "ca59d0de1e22b584b98e73e824fc7ed92aa11dc70295c991364ca6484c44b567"
+metafile = true
+
+[[files]]
 file = "mods/better-trim-tooltips.pw.toml"
 hash = "c0b4399adb48c2b8d9304d01d621c836b3c0a0faecab519108f62d40a5ee8bef"
 metafile = true
@@ -38,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "7a8878adad1c35daaba04095a2a52b56b7263f1042e2273419cc82475bbd9903"
 metafile = true
 
 [[files]]
@@ -53,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/dcch.pw.toml"
+hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
 
 [[files]]
@@ -91,6 +111,21 @@ hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+metafile = true
+
+[[files]]
+file = "mods/old-mc-logo.pw.toml"
+hash = "24fd21ea750334d68a5dbe2c0fa0a3c294424ed5ac7055ea4b1ced4e50143ff3"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
@@ -106,6 +141,16 @@ hash = "9e7c1e6cf3b81dce5a77bf5c95ed9d8e9b936b932aeadb1255245234230ced16"
 metafile = true
 
 [[files]]
+file = "mods/replymod.pw.toml"
+hash = "8eb1b585d74cd3910da97939441d3ccf1b6c5d83d9e01ca095a474dacb04d3a2"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d87ec097134489e237f35016d088c5b672c479c62f8e8be67eb85941218ae77e"
 metafile = true
@@ -113,6 +158,16 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "a83eaf0e340efd659d6f501ae9799f486719e12f004cc70246f28d52e01173f0"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "caa5977033d5737a4ed7e7d96bd2859c43c069496783216e6769dc1a2d26d8f1"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
