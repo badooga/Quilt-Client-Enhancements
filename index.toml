@@ -11,8 +11,18 @@ hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "cea9d72f42127f4974afc7120d99dd4042d7342129d465ea4afb11f334749b61"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
 
 [[files]]
@@ -26,8 +36,23 @@ hash = "c0b4399adb48c2b8d9304d01d621c836b3c0a0faecab519108f62d40a5ee8bef"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "cd2e4fa0a3dda308c440d163b8339b2072cfb2409a0def1f49099a3114596ab6"
+metafile = true
+
+[[files]]
+file = "mods/clean-f3.pw.toml"
+hash = "2c4eb80ff8089ac60c3e4b87a8938b20e741b20241a9f3c2b21060c9f576dea8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
@@ -41,11 +66,61 @@ hash = "68b89af2373d74955b72209195d3874d8ab24f25683010d7e61918ba84a5f439"
 metafile = true
 
 [[files]]
+file = "mods/freelook.pw.toml"
+hash = "b96430867193b941ee1253e97c0e7a5ddea5f0fe17a0944dde3646f559f9626e"
+metafile = true
+
+[[files]]
+file = "mods/improved-fire-overlay.pw.toml"
+hash = "16e550f99553aef0d34087d4322a7f9ea92f983cbb66c7c66b519f4820809724"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "9e7c1e6cf3b81dce5a77bf5c95ed9d8e9b936b932aeadb1255245234230ced16"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "d87ec097134489e237f35016d088c5b672c479c62f8e8be67eb85941218ae77e"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "a83eaf0e340efd659d6f501ae9799f486719e12f004cc70246f28d52e01173f0"
+metafile = true
+
+[[files]]
+file = "mods/vtdownloader.pw.toml"
+hash = "a04d4648349d35e607e7173fccfc576d5ebbe804a3716c1bd9154dcce0fd697a"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "ba1c6b53100f4b5666ccd77de55a8a29daf7b5b1b961f16dcbb8127959221a61"
 metafile = true
