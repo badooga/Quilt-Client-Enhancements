@@ -1,2 +1,51 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "cea9d72f42127f4974afc7120d99dd4042d7342129d465ea4afb11f334749b61"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
+metafile = true
+
+[[files]]
+file = "mods/better-trim-tooltips.pw.toml"
+hash = "c0b4399adb48c2b8d9304d01d621c836b3c0a0faecab519108f62d40a5ee8bef"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "cd2e4fa0a3dda308c440d163b8339b2072cfb2409a0def1f49099a3114596ab6"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "6def5f269d3f69656592f78adceb1b4c94047e68f3a332b95a51ac78d35c3e75"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "68b89af2373d74955b72209195d3874d8ab24f25683010d7e61918ba84a5f439"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "a83eaf0e340efd659d6f501ae9799f486719e12f004cc70246f28d52e01173f0"
+metafile = true
