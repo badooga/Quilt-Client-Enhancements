@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "cea9d72f42127f4974afc7120d99dd4042d7342129d465ea4afb11f334749b61"
+hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/improved-fire-overlay.pw.toml"
-hash = "16e550f99553aef0d34087d4322a7f9ea92f983cbb66c7c66b519f4820809724"
+hash = "47ec14c1d47213f7cb7c4177cd319267917bb1a09290a7f58d70060076345fc1"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
@@ -197,7 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d87ec097134489e237f35016d088c5b672c479c62f8e8be67eb85941218ae77e"
+hash = "0d0bae41e7993875f5ba7dc76d35aae90762fffa3595a0cb3764e9e6c38e95e6"
+metafile = true
+
+[[files]]
+file = "mods/skinswapper.pw.toml"
+hash = "dcdac84b35cd54e3848997f73878b60d1f6b2afbbd8d04f642b1b23dcbb63d6f"
 metafile = true
 
 [[files]]
@@ -222,5 +227,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "ba1c6b53100f4b5666ccd77de55a8a29daf7b5b1b961f16dcbb8127959221a61"
+hash = "afa5a21210e4a661713eac2b8f8a11cb1102079e725268aeb4fb2c705a103b1c"
 metafile = true
