@@ -115,11 +115,6 @@ hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
 
 [[files]]
-file = "mods/fixedvillagertrades.pw.toml"
-hash = "db8ad2bef997898adc20603242262598573dc617926f83fb505248413f464067"
-metafile = true
-
-[[files]]
 file = "mods/freelook.pw.toml"
 hash = "b96430867193b941ee1253e97c0e7a5ddea5f0fe17a0944dde3646f559f9626e"
 metafile = true
