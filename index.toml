@@ -15,11 +15,6 @@ hash = "9f22660d287a6a3ded24f5df8f944972933f04651cb30c9acb2e62132f3ffcd2"
 metafile = true
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
 metafile = true
@@ -196,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/shared-resources.pw.toml"
-hash = "2ffd1ff592db60ad83e456acb6f2e964e09dcc9a9e829211412ef675d489851d"
+hash = "f1b9250f4476e7c363fd14787de53931cb0585551eea27750d96472f866d5292"
 metafile = true
 
 [[files]]
