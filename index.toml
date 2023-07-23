@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "7c934cf1049493f3c6689c952f87eaf1270b8b567760a5ffd4d4825f1cd0aee4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
@@ -27,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "3d56be0b268c32cedaddb6825c7101738ead0a9a2b3aa44981526b3b8278a63c"
+hash = "67ca092e6264beec5d59f3de081d87d5849f7e94785f57ec1a5311de83d480e9"
 metafile = true
 
 [[files]]
@@ -111,6 +115,11 @@ hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
 
 [[files]]
+file = "mods/fixedvillagertrades.pw.toml"
+hash = "db8ad2bef997898adc20603242262598573dc617926f83fb505248413f464067"
+metafile = true
+
+[[files]]
 file = "mods/freelook.pw.toml"
 hash = "b96430867193b941ee1253e97c0e7a5ddea5f0fe17a0944dde3646f559f9626e"
 metafile = true
@@ -162,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/reacharound.pw.toml"
-hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
+hash = "74748bb62db3d9b7363ea0b6a6eb68001e33be404063947f503cb9d8bc8094db"
 metafile = true
 
 [[files]]
@@ -172,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "9e7c1e6cf3b81dce5a77bf5c95ed9d8e9b936b932aeadb1255245234230ced16"
+hash = "8827c0eebe28b24f57a8bc90b297236d4d35f5741fd5615b2c436f17afb47e67"
 metafile = true
 
 [[files]]
@@ -188,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "fcb1434a5c0b42eea5b27d0eb5a2160cf438d941e4f7f9d88a969cf4d819123d"
+metafile = true
+
+[[files]]
+file = "mods/shared-resources.pw.toml"
+hash = "2ffd1ff592db60ad83e456acb6f2e964e09dcc9a9e829211412ef675d489851d"
 metafile = true
 
 [[files]]
