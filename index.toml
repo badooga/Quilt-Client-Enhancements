@@ -210,6 +210,11 @@ hash = "dcdac84b35cd54e3848997f73878b60d1f6b2afbbd8d04f642b1b23dcbb63d6f"
 metafile = true
 
 [[files]]
+file = "mods/stepitup.pw.toml"
+hash = "50c4ed82fd915052aa526ef12e7369d4f262e65d493190909a41f27138f08826"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "a83eaf0e340efd659d6f501ae9799f486719e12f004cc70246f28d52e01173f0"
 metafile = true

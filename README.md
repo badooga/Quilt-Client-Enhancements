@@ -64,5 +64,6 @@ A few extra mods are also listed as optional:
 - Simple Voice Chat, for proximity chat on supported servers
 - Reacharound, which allows you to place blocks up/down or side to side like on Bedrock
 - Replay Mod, for recording your gameplay
+- Step It Up, a smooth alternative to auto jump that lets you smoothly walk up slopes
 - AutoHUD, in case you want HUD elements to fade away when not in use
 </details>
