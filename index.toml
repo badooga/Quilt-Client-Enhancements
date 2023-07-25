@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "7c934cf1049493f3c6689c952f87eaf1270b8b567760a5ffd4d4825f1cd0aee4"
 
 [[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "be15541e82dac1abef9651a133dcce2a5efb31913d05d1bb0a5e58fbd1001691"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
