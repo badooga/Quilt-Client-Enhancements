@@ -29,6 +29,11 @@ hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
 metafile = true
 
 [[files]]
+file = "mods/armor-trim-item-fix.pw.toml"
+hash = "73411b9b3fe43fe2f469b61ab490f67b11972dc93d5107af829e445f8107feb1"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
 metafile = true
@@ -191,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "3d36cc9f465711f719624bee906860b36e84e69d92eb9a5d51021a5c8bb5bac0"
 metafile = true
 
 [[files]]
