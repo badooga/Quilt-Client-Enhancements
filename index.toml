@@ -25,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-selection.pw.toml"
-hash = "ca59d0de1e22b584b98e73e824fc7ed92aa11dc70295c991364ca6484c44b567"
+hash = "dc98068306355dbd70b0864afa45ef429017b05a875af7e0dde2b5485abf1c55"
 metafile = true
 
 [[files]]
@@ -80,12 +80,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "7a8878adad1c35daaba04095a2a52b56b7263f1042e2273419cc82475bbd9903"
+hash = "418b4902c5d870ee27a952cc3c39ddfa931f2d40c55c7e963f35849402955c2c"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "cd2e4fa0a3dda308c440d163b8339b2072cfb2409a0def1f49099a3114596ab6"
+hash = "7293ab05ee73400787ba9c31d4c59884d252dcc170880602e8e8da64dcf3f765"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/draggable-lists.pw.toml"
-hash = "6def5f269d3f69656592f78adceb1b4c94047e68f3a332b95a51ac78d35c3e75"
+hash = "820a6bf2e0555af7e835f94c6e94c5cd8da1bdf2ea6824904030612b9f568919"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
+hash = "14cc4a22ff95357f268e55e99728742c6667e4ad1a3272bb708fb2702ffc5f82"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/replymod.pw.toml"
-hash = "8eb1b585d74cd3910da97939441d3ccf1b6c5d83d9e01ca095a474dacb04d3a2"
+hash = "cf3ecc546eab2ed0d7bea01a57b488e43b216e0cc4439f1bb263b14d011c6cd0"
 metafile = true
 
 [[files]]
@@ -210,17 +210,17 @@ metafile = true
 
 [[files]]
 file = "mods/shared-resources.pw.toml"
-hash = "f1b9250f4476e7c363fd14787de53931cb0585551eea27750d96472f866d5292"
+hash = "cc63f87c9862446fb4b47024634de14fec5a901d812468f0bfbf83b56a0f6cdf"
 metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "d0dfcee603b2d0a7405259c12237d32acb99cc972b013ce0504bbb30a9c34327"
+hash = "c3b05d644d0d9b4da374534d94a80c4ef032b4250dd4d091ecae66a71612cbf4"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0d0bae41e7993875f5ba7dc76d35aae90762fffa3595a0cb3764e9e6c38e95e6"
+hash = "eaa1f66e9b32910251ede03e4fd9e5ac738862c152d1d1351de66744adb60829"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/stepitup.pw.toml"
-hash = "50c4ed82fd915052aa526ef12e7369d4f262e65d493190909a41f27138f08826"
+hash = "a38acdc5984b9aa7bb64d097e560b6e691115e958efcc8a614e911a497f821b5"
 metafile = true
 
 [[files]]
@@ -255,5 +255,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "afa5a21210e4a661713eac2b8f8a11cb1102079e725268aeb4fb2c705a103b1c"
+hash = "fc11ca1eec1dc3785b51c51b061fed1a68044cd7ffb412cdabdaf76ecc0d9a29"
 metafile = true

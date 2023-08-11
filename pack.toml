@@ -1,12 +1,12 @@
 name = "Client Enhancements"
 author = "badooga"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "90c71e500a478df5d09792190ca4603073b29a318f04b10eac45f006ca41cfac"
+hash = "db30fafd320368a31ae45c0711af063f5b976b95cc7d34354320ae83bcdc8470"
 
 [versions]
 minecraft = "1.20.1"
